@@ -1,1 +1,1 @@
-# Blender FBX to Source .mdl.
+# Blender FBX to Source .mdl
